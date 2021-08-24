@@ -6,7 +6,7 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-const token string = "ODc5NTI3MTQ1ODAwNjMwMzAz.YSRBfA.uk6UQRv-NL2NAWrU-g1v54lMY3U"
+const token string = "token-here"
 
 var BotID string
 
